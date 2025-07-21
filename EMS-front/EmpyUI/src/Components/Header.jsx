@@ -5,7 +5,7 @@ const Header = () => {
     <div>
         <header>
             <nav className='navbar navbar-light'/>
-            <a className="navbar-brand" href="">Employee Mangaement system</a>
+            <a className="navbar-brand" href="">Employee Management system</a>
 
         </header>
 
